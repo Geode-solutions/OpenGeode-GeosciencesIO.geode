@@ -1,0 +1,6 @@
+build
+node_modules
+.vscode/ipch
+dist
+server/pip
+__pycache__
